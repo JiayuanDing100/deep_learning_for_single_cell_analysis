@@ -2,6 +2,9 @@
 
 
 ## [Spatial Single Cell Analysis](#content) 
+### Intro videos
+Next generation tools for spatial genomics - Fei Chen, Ph.D., Broad Institute of MIT and Harvard
+
 **Intro**: [Spatially Resolved Single-Cell Data in 2021: where are we?](https://scipio.bio/blogs/spatially-single-cell-data-2021/) <br/>
 **Latest update** [Spatial Transcriptomics from 10xgeomics](https://www.10xgenomics.com/spatial-transcriptomics) <br/>
 1. **DSTG: deconvoluting spatial transcriptomics data through graph-based artificial intelligence** [2021, 15, Briefings in Bioinformatics] <br/>
