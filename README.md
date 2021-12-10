@@ -11,4 +11,4 @@
 4. **Annotation of Spatially Resolved Single-cell Data with STELLAR** [2021, 0, preprint] <br/>
    [[paper]](https://www.biorxiv.org/content/10.1101/2021.11.24.469947v1)
 5. **Characterizing spatial gene expression heterogeneity in spatially resolved single-cell transcriptomics data with nonuniform cellular densities** [2021, 4, Genome Research] <br/>
-   [[paper]](https://www.nature.com/articles/s41467-020-15968-5)[[code]](https://github.com/JEFworks-Lab/MERINGUE)
+   [[paper]](https://genome.cshlp.org/content/early/2021/05/25/gr.271288.120)[[code]](https://github.com/JEFworks-Lab/MERINGUE)
