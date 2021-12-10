@@ -17,5 +17,6 @@
    c. [3D Drosophila Spatial Transcriptomics Analysis](https://github.com/JEFworks-Lab/MERINGUE/blob/master/docs/drosophila_3D_analysis.md) <br/>
    d. [Understanding MERINGUE's Spatial Cross-Correlation Statistic using Simulations](https://github.com/JEFworks-Lab/MERINGUE/blob/master/docs/simulation.md) <br/>
    e. [Spatially-informed transcriptional clustering with MERINGUE](https://github.com/JEFworks-Lab/MERINGUE/blob/master/docs/spatial_clustering.md) <br/>
-
+6. **Integrating spatial gene expression and breast tumour morphology via deep learning** [2020, 61, Nature Biomedical Engineering] <br/>
+   [[paper]](https://www.nature.com/articles/s41551-020-0578-x)[[code]](https://github.com/bryanhe/ST-Net)
 
