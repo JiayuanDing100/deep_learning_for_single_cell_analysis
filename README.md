@@ -2,4 +2,5 @@
 
 
 ## [Spatial Single Cell Analysis](#content) 
-1. **DSTG: deconvoluting spatial transcriptomics data through graph-based artificial intelligence**, 2019, citation: 35
+1. **DSTG: deconvoluting spatial transcriptomics data through graph-based artificial intelligence** \n
+   2021, 
