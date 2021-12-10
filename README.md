@@ -2,7 +2,7 @@
 
 
 ## [Spatial Single Cell Analysis](#content) 
-Intro: [Spatially Resolved Single-Cell Data in 2021: where are we?](https://scipio.bio/blogs/spatially-single-cell-data-2021/)
+**Intro**: [Spatially Resolved Single-Cell Data in 2021: where are we?](https://scipio.bio/blogs/spatially-single-cell-data-2021/)
 1. **DSTG: deconvoluting spatial transcriptomics data through graph-based artificial intelligence** [2021, 15, Briefings in Bioinformatics] <br/>
    [[paper]](https://academic.oup.com/bib/article/22/5/bbaa414/6105942)[[code]](https://github.com/Su-informatics-lab/DSTG)
 2. **Method of the Year: spatially resolvedtranscriptomics** [2021, 76, Nature Methods] <br/>
