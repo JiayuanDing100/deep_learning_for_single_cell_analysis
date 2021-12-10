@@ -11,4 +11,13 @@
 4. **Annotation of Spatially Resolved Single-cell Data with STELLAR** [2021, 0, preprint] <br/>
    [[paper]](https://www.biorxiv.org/content/10.1101/2021.11.24.469947v1)
 5. **Characterizing spatial gene expression heterogeneity in spatially resolved single-cell transcriptomics data with nonuniform cellular densities** [2021, 4, Genome Research] <br/>
-   [[paper]](https://genome.cshlp.org/content/early/2021/05/25/gr.271288.120)[[code]](https://github.com/JEFworks-Lab/MERINGUE)
+   [[paper]](https://genome.cshlp.org/content/early/2021/05/25/gr.271288.120)[[code]](https://github.com/JEFworks-Lab/MERINGUE) <br/>
+   a. [mOB Spatial Transcriptomics Analysis](https://github.com/JEFworks-Lab/MERINGUE/blob/master/docs/mOB_analysis.md)
+
+   b. [Multi-section 3D Breast Cancer Spatial Transcriptomics Analysis](https://github.com/JEFworks-Lab/MERINGUE/blob/master/docs/BCL_analysis.md)
+
+   c. [3D Drosophila Spatial Transcriptomics Analysis](https://github.com/JEFworks-Lab/MERINGUE/blob/master/docs/drosophila_3D_analysis.md)
+
+   d. [Understanding MERINGUE's Spatial Cross-Correlation Statistic using Simulations](https://github.com/JEFworks-Lab/MERINGUE/blob/master/docs/simulation.md)
+
+   e. [Spatially-informed transcriptional clustering with MERINGUE](https://github.com/JEFworks-Lab/MERINGUE/blob/master/docs/spatial_clustering.md)
