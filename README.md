@@ -4,7 +4,7 @@
 ## [Spatial Single Cell Analysis](#content) 
 **Intro videos** <br/>
 a. [Next generation tools for spatial genomics](https://www.youtube.com/watch?v=HmYuS1qHuew) 2021.3.27 - Fei Chen, Ph.D., Broad Institute of MIT and Harvard <br/>
-b. [Deep learning to integrate histology with spatial transcriptomics](https://www.youtube.com/watch?v=9PYeMn8t57Y) 2021.11.23 - James Zou, AP at Stanford <br/>
+b. [Deep learning to integrate histology with spatial transcriptomics](https://www.youtube.com/watch?v=9PYeMn8t57Y) 2020.11.23 - James Zou, AP at Stanford <br/>
 
 **Intro**: [Spatially Resolved Single-Cell Data in 2021: where are we?](https://scipio.bio/blogs/spatially-single-cell-data-2021/) <br/>
 **Latest update** [Spatial Transcriptomics from 10xgeomics](https://www.10xgenomics.com/spatial-transcriptomics) <br/>
