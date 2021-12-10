@@ -6,3 +6,5 @@
    [[paper]](https://academic.oup.com/bib/article/22/5/bbaa414/6105942)[[code]](https://github.com/Su-informatics-lab/DSTG)
 2. **Method of the Year: spatially resolvedtranscriptomics** [2021, 76, Nature Methods] <br/>
    [[paper]](https://www.nature.com/articles/s41592-020-01033-y)
+3. **Inferring spatial and signaling relationships between cells from single cell transcriptomic data** [2020, 42, Nature Communications] <br/>
+   [[paper]](https://www.nature.com/articles/s41467-020-15968-5)[[code]](https://github.com/zcang/SpaOTsc)
