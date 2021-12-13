@@ -2,7 +2,7 @@
 
 ## [Surveys](#content) 
 1. **Eleven grand challenges in single-cell data science** [2020, 318] <br/>
-
+2. **Deep learning tackles single-cell analysis: A survey of deep learning for scRNA-seq analysis** [2021, 0] <br/>
 
 
 
