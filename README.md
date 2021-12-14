@@ -40,4 +40,15 @@ c. [Integrated spatial genomics reveals invariant features in the nucleus](https
 
 ### [Cancer Research and Single Cell Analysis](#content) 
 #### [Surveys](#content) 
-1. **Eleven grand challenges in single-cell data science** [2020, 318] <br/>
+1. **Advancing Cancer Research and Medicine with Single-Cell Genomics** [2020, 61] <br/>
+2. **The Human Tumor Atlas Network: Charting Tumor Transitions across space and Time at single cell resolution** [2020, 138] <br/>
+3. **Single-cell profiling of tumor heterogeneity** [2021, 19] <br/>
+4. **Applications of single-cell sequencing in cancer research** [2021, 7] <br/>
+5. **Single-cell analysis for cancer immunotherapy** [2021, 1] <br/>
+6. **Single-cell analysis in cancer genomics** [2015, 151] <br/>
+
+
+
+
+
+
