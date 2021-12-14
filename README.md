@@ -46,7 +46,8 @@ c. [Integrated spatial genomics reveals invariant features in the nucleus](https
 4. **Applications of single-cell sequencing in cancer research** [2021, 7] <br/>
 5. **Single-cell analysis for cancer immunotherapy** [2021, 1] <br/>
 6. **Single‐cell RNA sequencing in cancer research** [2021, 12] <br/>
-7. **Single-cell analysis in cancer genomics** [2015, 151] <br/>
+7. **Leveraging Single-Cell Approaches in Cancer Precision Medicine** [2021, 3] <br/>
+8. **Single-cell analysis in cancer genomics** [2015, 151] <br/>
 
 
 
