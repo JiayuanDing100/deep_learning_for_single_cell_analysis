@@ -45,7 +45,8 @@ c. [Integrated spatial genomics reveals invariant features in the nucleus](https
 3. **Single-cell profiling of tumor heterogeneity** [2021, 19] <br/>
 4. **Applications of single-cell sequencing in cancer research** [2021, 7] <br/>
 5. **Single-cell analysis for cancer immunotherapy** [2021, 1] <br/>
-6. **Single-cell analysis in cancer genomics** [2015, 151] <br/>
+6. **Single‐cell RNA sequencing in cancer research** [2021, 12] <br/>
+7. **Single-cell analysis in cancer genomics** [2015, 151] <br/>
 
 
 
