@@ -4,7 +4,8 @@
 1. **Eleven grand challenges in single-cell data science** [2020, 318] <br/>
 2. **Deep learning tackles single-cell analysis: A survey of deep learning for scRNA-seq analysis** [2021, 0] <br/>
 3. **Emerging deep learning methods for single-cell RNA-seq data analysis (mini review)** [2019, 21] <br/>
-
+4. **Graph representation learning for single-cell biology** [2021, 1] <br/>
+5. **Graph Neural Networks and Their Current Applications in Bioinformatics** [2021, 0] <br/>
 
 
 ## [A. Spatial Single Cell Analysis](#content) 
