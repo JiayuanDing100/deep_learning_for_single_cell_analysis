@@ -35,6 +35,10 @@ c. [Integrated spatial genomics reveals invariant features in the nucleus](https
    [[paper]](https://www.nature.com/articles/s41551-020-0578-x)[[code]](https://github.com/bryanhe/ST-Net)
 
 
+## [B.1 Tasks in ST Data Analysis](#content) 
+1. **Cell type identification**
+
+
 
 
 ## [Application of Single Cell Analysis](#content) 
