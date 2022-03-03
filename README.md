@@ -36,13 +36,17 @@ c. [Integrated spatial genomics reveals invariant features in the nucleus](https
 
 
 ## [B. Tasks in ST Data Analysis](#content) 
-1. **Cell type identification**
+**B.1 Cell type identification** <br/>
    There are two general approaches for estimating cell type composition: <br/>
    a. to evaluate the enrichment of cell type-specific markers among the experessed genes at each spot <br/>
    b. deconvolution, to quantitatively eastimate the proportion of different cell types at each location <br/>
 
+1. **Comprehensive mapping of tissue cell architecture via integrated single cell and spatial transcriptomics** [2020] <br/>
+   [[paper]](https://www.biorxiv.org/content/10.1101/2020.11.15.378125v1.full.pdf)[[code]](https://github.com/BayraktarLab/cell2location)
 
 
+
+ 
 
 ## [Application of Single Cell Analysis](#content) 
 
