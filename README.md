@@ -37,6 +37,9 @@ c. [Integrated spatial genomics reveals invariant features in the nucleus](https
 
 ## [B. Tasks in ST Data Analysis](#content) 
 1. **Cell type identification**
+   There are two general approaches for estimating cell type composition: <br/>
+   a. to evaluate the enrichment of cell type-specific markers among the experessed genes at each spot <br/>
+   b. deconvolution, to quantitatively eastimate the proportion of different cell types at each location <br/>
 
 
 
