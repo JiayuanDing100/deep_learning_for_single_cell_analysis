@@ -44,7 +44,7 @@ c. [Integrated spatial genomics reveals invariant features in the nucleus](https
 1. **Comprehensive mapping of tissue cell architecture via integrated single cell and spatial transcriptomics** [2020] <br/>
    [[paper]](https://www.biorxiv.org/content/10.1101/2020.11.15.378125v1.full.pdf)[[code]](https://github.com/BayraktarLab/cell2location)
 2. **DEEPsc: a deep learning-based map connect- ing single-cell transcriptomics and spatial imaging data.** [2021] <br/>
-   
+3. **GLUER: integrative analysis of single-cell omics and imaging data by deep neural network.** [2021] <br/>
 
 
 
