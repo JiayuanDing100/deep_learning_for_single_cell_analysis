@@ -36,7 +36,7 @@ c. [Integrated spatial genomics reveals invariant features in the nucleus](https
 
 
 ## [B. Tasks in ST Data Analysis](#content) 
-**B.1 Cell type identification** <br/>
+**B.1 Cell type identification from ST data** <br/>
    There are two general approaches for estimating cell type composition: <br/>
    a. to evaluate the enrichment of cell type-specific markers among the experessed genes at each spot <br/>
    b. deconvolution, to quantitatively eastimate the proportion of different cell types at each location <br/>
@@ -47,9 +47,21 @@ c. [Integrated spatial genomics reveals invariant features in the nucleus](https
 3. **GLUER: integrative analysis of single-cell omics and imaging data by deep neural network.** [2021] <br/>
 
 
+**B.2 Characterizing spatial patterns of transcriptomic profiles** <br/>
+tissue architecture <br/>
+cell-cell interactions <br/>
+cell state <br/>
 
 
- 
+**B.2 Characterizing spatial patterns of transcriptomic profiles** <br/>
+
+**B.3 Subcellular structure analysis** <br/>
+
+**B.4 Understanding how cells communicate with the tissue environment** <br/>
+
+
+
+
 
 ## [Application of Single Cell Analysis](#content) 
 
